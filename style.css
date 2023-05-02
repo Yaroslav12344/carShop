@@ -1,0 +1,18 @@
+body{
+  background-color: #353434;
+}
+
+header{
+  margin: 40px auto 0;
+  height: 690px;
+  width: 95%;
+  display: flex;
+  justify-content: center;
+  background-image: url(peter-broomfield-m3m-lnR90uM-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+
